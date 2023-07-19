@@ -9,5 +9,5 @@ I will be downloading Nessus Essentials on my desktop and scanning my own networ
  ![VulnerabilitiesList](https://github.com/turysanchez5/HomeProjectwithNessus/assets/77302201/94ff32cd-6538-46cb-b213-058635626ede)
 ![HighestSeverity](https://github.com/turysanchez5/HomeProjectwithNessus/assets/77302201/5576746a-c5cb-41c4-b1fd-0d1850769a96)
 
-3. Downloaded VMware Workstation Pro along with a Windows 10 .iso file. Created a new virtual machine from the VMware Workstation and attached the .iso Windows 10 file as my Operating System.
+3. Downloaded VMware Workstation Player 17 along with a Windows 10 .iso file. I then created a new virtual machine from the VMware Workstation and attached the .iso Windows 10 file as my Operating System.
 4. ![VMSetup](https://github.com/turysanchez5/HomeProjectwithNessus/assets/77302201/9dd7dfc5-2024-439f-a630-e8bb86e35c8f)
